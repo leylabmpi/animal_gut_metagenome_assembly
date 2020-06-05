@@ -1,0 +1,1 @@
+Summary of MAGs generated from the multi-study metagenome assemblies
